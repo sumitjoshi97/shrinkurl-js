@@ -27,3 +27,6 @@ function toUrl (long, short) {
         }
     });
 }
+
+exports.exports.schema = schema;
+exports.module.isValid = isValid;
